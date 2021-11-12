@@ -30,19 +30,16 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">My Github Stats📈</h3> 
+<h3 align="left">My Github Stats</h3> 
 
 
 ![Willywes's github stats](https://github-readme-stats.vercel.app/api?username=Willywes&theme=default_repocard&show_icons=true)
 
 
 
-<h3 align="left">My Most Used Languages💛</h3> 
+<h3 align="left">My Most Used Language</h3> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willywes&theme=default_repocard)
-
-
-[![Willywes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Willywes)](https://github.com/wakatime/github-readme-stats)
 
 
 
