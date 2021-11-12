@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willywes&theme=default_repocard)
 
 
+[![Willywes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Willywes)](https://github.com/Willywes/github-readme-stats)
+
+
+
