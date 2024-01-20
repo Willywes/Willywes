@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Alejandro Isla</h1>
 <h3 align="center">A passionate full stack developer!!!</h3>
-<h4 align="left">Connect with me:</h4>
+<!-- <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/willywes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="willywes" height="30" width="40" /></a>
 <a href="https://es.stackoverflow.com/users/2500/willywes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="willywes" height="30" width="40" /></a>
 </p>
+ -->
