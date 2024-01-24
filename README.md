@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Alejandro Isla</h1>
 <h3 align="center">A passionate full stack developer!!!</h3>
+
+![cover](https://repository-images.githubusercontent.com/352463436/e605ac83-d076-4830-ac61-7ee90ad4d2a2)
 <!-- <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/willywes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="willywes" height="30" width="40" /></a>
