@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 <a href="https://es.stackoverflow.com/users/2500/willywes" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="willywes" height="30" width="40" /></a>
 </p>
  -->
+
+## My GitHub stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=willywes&theme=dark\&show_icons=true\&rank_icon=github)][gh_profile] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywes&layout=compact&theme=dark&langs_count=8&hide=Jupyter%20Notebook&exclude_repo=MUNICS-SAPP-P1,MUNICS-SAPP-P2,MUNICS-BC-Practica1)][gh_profile] |
+|:--:|:--:|
