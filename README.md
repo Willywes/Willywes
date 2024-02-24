@@ -25,7 +25,5 @@ Here are some ideas to get you started:
  -->
 
 ## My GitHub stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=willywes&theme=dark\&show_icons=true\&rank_icon=github)][gh_profile] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywes&layout=compact&theme=dark&langs_count=8&hide=Jupyter%20Notebook&exclude_repo=MUNICS-SAPP-P1,MUNICS-SAPP-P2,MUNICS-BC-Practica1)][gh_profile] |
-|:--:|:--:|
+| ![Willywes's GitHub stats](https://github-readme-stats.vercel.app/api?username=willywes&show_icons=true&theme=holi\&show_icons=true\&rank_icon=github) | [![Willywes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywes&layout=compact&theme=holi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) |
+|:-:|-:|
