@@ -25,5 +25,5 @@ Here are some ideas to get you started:
  -->
 
 ## My GitHub stats
-| ![Willywes's GitHub stats](https://github-readme-stats.vercel.app/api?username=willywes&show_icons=true&theme=holi\&show_icons=true\&rank_icon=github) | [![Willywes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywes&layout=compact&theme=holi&langs_count=8)](https://github.com/willywes/github-readme-stats) |
+| ![Willywes's GitHub stats](https://github-readme-stats.vercel.app/api?username=willywes&show_icons=true&theme=holi\&show_icons=true\&rank_icon=github) | ![Willywes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willywes&layout=compact&theme=holi&langs_count=8)|
 |:-:|-:|
